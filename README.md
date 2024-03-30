@@ -1,4 +1,4 @@
-#Streamlit app
+# Streamlit app
 
 Little streamlit app for 'Start in DS' bootcamp.
 
