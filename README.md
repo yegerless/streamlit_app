@@ -1,3 +1,5 @@
+#Streamlit app
+
 Little streamlit app for 'Start in DS' bootcamp.
 
 Dataset from kaggle Titanic ML competition (https://www.kaggle.com/competitions/titanic/data)
