@@ -8,7 +8,8 @@ df2 = pd.read_csv('./data/test.csv')
 df = pd.concat([df1, df2])
 
 passengers_cnt = df['PassengerId'].count()
-average_passengers_age = f'{df['Age'].mean():.2f} years'
+x = df['Age'].mean()
+average_passengers_age = f'{x:.2f} years'
 
 
 fig, ax = plt.subplots()
