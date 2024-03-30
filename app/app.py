@@ -1,6 +1,6 @@
 import pandas as pd
 import streamlit as st
-import matplotlib.pyplot as plt
+from matplotlib import pyplot as plt
 
 df1 = pd.read_csv('./data/train.csv')
 df2 = pd.read_csv('./data/test.csv')
